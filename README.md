@@ -1,5 +1,5 @@
 - Hi, I’m @arundehyp
-- I’m interested in anythong that involves computer
+- I’m interested in anything that involves computer
 - I’m currently exploring a lot of things that cannot be explained in a readme file
 - I’m looking to collaborate on Data engineering
 anythongn to do with data engineering(databrics,spark,sql,python)
